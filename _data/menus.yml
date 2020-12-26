@@ -2,6 +2,14 @@
   url: /
   external: false
 
+- title: CV
+  url: /cv/
+  external: false
+  
+- title: research interests
+  url: /research_interests/
+  external: false
+
 - title: archive
   url: /archive/
   external: false
