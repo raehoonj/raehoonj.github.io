@@ -11,9 +11,9 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Buzz Lightyear # author name
+  name: Raehoon Jeong # author name
   bio: >- # tell to the world
-    This is Buzz Lightyear personal website <a href="https://github.com/raehoonj" target="_blank" rel="noopener">@github</a>.
+    This is Raehoon Jeong's personal website <a href="https://github.com/raehoonj" target="_blank" rel="noopener">@github</a>.
   username: username # general username
   github: raehoonj # github username
   twitter: twitter_username # twitter username
