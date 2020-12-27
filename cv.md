@@ -6,11 +6,11 @@ excerpt: This is my cv
 comments: false
 ---
 
-## Education
+### Education
 ------
-### Harvard University
+#### Harvard University
 Ph.D. Bioinformatics and Integrative Genomics, Expected May 2023
 
-### Swarthmore College
+#### Swarthmore College
 B.A. in Mathematics & Computer Science, May 2017
 * Phi Beta Kappa
