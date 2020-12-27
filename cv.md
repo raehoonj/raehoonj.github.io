@@ -6,7 +6,7 @@ excerpt: This is my cv
 comments: false
 ---
 
-## Education
+# Education
 
 ### Harvard University
 Ph.D. Bioinformatics and Integrative Genomics, Expected May 2023
