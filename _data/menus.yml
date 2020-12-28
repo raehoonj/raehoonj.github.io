@@ -13,6 +13,10 @@
 - title: blog
   url: /blog/
   external: false
+  
+- title: other writing
+  url: /other_writing/
+  external: false
 
 - title: about
   url: /about/
