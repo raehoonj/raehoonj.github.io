@@ -6,7 +6,7 @@ excerpt: about
 comments: false
 ---
 
-He is a PhD student at Harvard, studying bioinformatics. He is interested in studying how coding and noncoding genetic variants contribute to gene regulation and traits, including diseases.
+Raehoon is a PhD student at Harvard, studying bioinformatics. He is interested in studying how coding and noncoding genetic variants contribute to gene regulation and traits, including diseases.
 
 He enjoys watching movies and writing about them. He occasionally dances west coast swing, too.
 
