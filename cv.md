@@ -8,10 +8,10 @@ comments: false
 
 # Education
 ### Harvard University
-Ph.D. Bioinformatics and Integrative Genomics, Expected May 2023
+Ph.D. Bioinformatics and Integrative Genomics, Expected May 2023  
 -Thesis advisor: Martha L. Bulyk, PhD
 ### Swarthmore College
-B.A. in Mathematics & Computer Science, May 2017
+B.A. in Mathematics & Computer Science, May 2017  
 -Phi Beta Kappa
 
 # Research experience
