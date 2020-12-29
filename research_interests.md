@@ -7,9 +7,10 @@ comments: false
 
 I am broadly interested in studying the effect of genetic variation on transcriptional regulation and, ultimately, traits and diseases.
 
-## Functional genomics
+## Transcriptional regulation
 
+Current models in transcription posit that transcription factor binding in the *cis*-regulatory elements, such as promoters and enhancers, control the expression of genes. I am fascinated by how different cell types can utilize the same genetic code (DNA), and yet manifest distinct transcriptome (RNA).
 
 ## Statistical genetics
 
-Advances in statistical genetics have accelerated the scale of novel genetic discoveries. 
+Genome-wide association studies brought about an explosion of genetic loci that are associated with traits. 
