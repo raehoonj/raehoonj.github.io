@@ -1,8 +1,12 @@
 - title: home
   url: /
   external: false
+
+- title: about
+  url: /about/
+  external: false
   
-- title: CV
+- title: cv
   url: /cv/
   external: false
   
@@ -10,13 +14,13 @@
   url: /research_interests/
   external: false
 
-- title: archive
-  url: /archive/
+- title: blog
+  url: /blog/
   external: false
-
-- title: about
-  url: /about/
-  external: false # set true if you using external link, see below
+  
+- title: other writing
+  url: /other_writing/
+  external: false
 
 # Example:
 # - title: github
