@@ -7,7 +7,7 @@ comments: false
 ---
 
 # Education
----
+
 ### Harvard University
 Ph.D. Bioinformatics and Integrative Genomics, Expected May 2023
 - Thesis advisor: Martha L. Bulyk, PhD
@@ -20,10 +20,13 @@ B.A. in Mathematics & Computer Science, May 2017
 - Eugene M. Lang Summer Research Fellowship
 
 # Research experience
----
-#### Bulyk lab (2018 - )
+
+### Bulyk lab (2018 - )
 - transcription factor
 
 #### Soni lab (2015-2017)
 - classification
 - transcription factor binding prediction
+
+# Teaching
+- Spring 2019. Teaching assistant. BIOPHYS 205: Computational and Functional Genomics.
