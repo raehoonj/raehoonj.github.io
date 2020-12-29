@@ -24,9 +24,9 @@ B.A. in Mathematics & Computer Science, May 2017
 ### Bulyk lab (2018 - )
 - transcription factor
 
-**Soni lab (2015-2017)**
-- classification
-- transcription factor binding prediction
+### Soni lab (2015-2017)
+- Applied Deep learning models to predict transcription factor binding sites from sequence and functional genomics data
+- Analyzed performances of random forests, SVM, and AdaBoost on microarray data of cancerous cells
 
 # Teaching
 - Spring 2019. Teaching assistant. BIOPHYS 205: Computational and Functional Genomics.
