@@ -5,9 +5,11 @@ layout: page
 comments: false
 ---
 
+I am broadly interested in studying the effect of genetic variation on transcriptional regulation and, ultimately, traits and diseases.
+
 ## Functional genomics
 
 
-He is a PhD student at Harvard, studying bioinformatics. He is interested in studying how coding and noncoding genetic variants contribute to gene regulation and traits, including diseases.
-
 ## Statistical genetics
+
+Advances in statistical genetics have accelerated the scale of novel genetic discoveries. 

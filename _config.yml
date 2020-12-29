@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Raehoon Jeong # author name
   bio: >- # tell to the world
-    He is a bioinformatics PhD student at Harvard, studying bioinformatics. He is interested in studying how coding and noncoding genetic variants contribute to gene regulation and traits, including diseases.
+    This is Raehoon Jeong's academic website
   username: username # general username
   github: raehoonj # github username
   twitter: twitter_username # twitter username
@@ -58,7 +58,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 5
+number_of_posts: 3
 
 # Build settings
 # theme: klise
