@@ -17,5 +17,7 @@ comments: false
 [Knives Out (2019)](https://welookback.wordpress.com/2019/12/29/knives-out-2019/)  
 [기생충 Parasite (2019)](https://welookback.wordpress.com/2020/06/12/if-beale-street-could-talk-2018/)  
 [The Favourite (2018)](https://welookback.wordpress.com/2018/12/25/the-favourite-2018/)  
+[Call Me By Your Name (2017)](https://welookback.wordpress.com/2017/12/28/call-me-by-your-name-2017/)  
+[Lady Bird (2017)](https://welookback.wordpress.com/2017/12/27/lady-bird-2017/)  
 
 Check out [my movie review blog](https://welookback.wordpress.com) for more.
