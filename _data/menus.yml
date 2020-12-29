@@ -1,6 +1,10 @@
 - title: home
   url: /
   external: false
+
+- title: about
+  url: /about/
+  external: false
   
 - title: cv
   url: /cv/
@@ -17,10 +21,6 @@
 - title: other writing
   url: /other_writing/
   external: false
-
-- title: about
-  url: /about/
-  external: false # set true if you using external link, see below
 
 # Example:
 # - title: github
