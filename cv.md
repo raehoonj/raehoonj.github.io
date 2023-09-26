@@ -9,7 +9,7 @@ comments: false
 # Education
 
 ### Harvard University
-Ph.D. Bioinformatics and Integrative Genomics, Expected May 2023  
+Ph.D. Biomedical Informatics, August 2023  
 - Thesis advisor: Martha L. Bulyk, PhD
 
 ### Swarthmore College
@@ -29,4 +29,6 @@ B.A. in Mathematics & Computer Science, May 2017
 - Spring 2019. Teaching assistant. BIOPHYS 205: Computational and Functional Genomics.
 
 # Skills
-
+- <b>Statistical genetics</b>: QTL mapping, Colocalization, Fine-mapping, LD score regression, Mediated heritability analysis
+- <b>Bioinformatics</b>: WGS variant calling, Variant interpretation, Large-scale functional genomics data analysis
+- <b>Programming</b>: Python, R, Linux/Unix, High-performance computing systems, Keras, scikit-learn, HTML
